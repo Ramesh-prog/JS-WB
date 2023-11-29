@@ -1,6 +1,6 @@
 // alert(3 + 3) // we are using nodejs, not browser. 
 
-let name = "hitesh"
+let name = "Ramesh"
 let age = 10
 let isLoggedIn = false 
 
