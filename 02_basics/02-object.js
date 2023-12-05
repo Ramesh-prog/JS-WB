@@ -1,7 +1,6 @@
-// singleton
-// Object.create
-
-// object literals
+// object->
+// definition - Objects are super important for grouping data and functionalities, so you can do a lot with an object in JavaScript. 
+// objects - key and value pair 
 
 const mySym = Symbol("key1")
 
@@ -93,11 +92,11 @@ users[1].email
 
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
-
+// object de-structuring 
 const course = {
-    coursename: "js in hindi",
+    coursename: "Placement preparation",
     price: "999",
-    courseInstructor: "hitesh"
+    courseInstructor: "Ramesh"
 }
 
 // course.courseInstructor
@@ -118,3 +117,5 @@ console.log(instructor);
     {},
     {}
 ]
+
+// api - random user generation site 
